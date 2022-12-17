@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  }
+.title{
+
+  width: 40vw;
+  color: black;
+  background-color: pink;
+  border:solid 5px  #795548;
+  padding: 4rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+  }
